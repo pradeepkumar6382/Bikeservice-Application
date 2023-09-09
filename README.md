@@ -25,6 +25,7 @@ cd bike-service-app
 npm install
 npm start
 Usage
+===Create image folder and store all images===
 Owner Signup and Service Management
 Open homepage.php.
 Click on "Sign Up as an Owner."
