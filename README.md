@@ -19,5 +19,5 @@ Follow these steps to get the Bike Service App up and running on your local mach
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bike-service-app.git
+git clone https://github.com/pradeepkumar6382/bike-service-app.git
 cd bike-service-app
