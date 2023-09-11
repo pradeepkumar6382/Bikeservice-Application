@@ -62,7 +62,8 @@ if(isset($_POST['submit'])){
 		,'$phno','$service','$description','$price')";
 	}
 	$result=mysqli_query($con,$query);
+	header("location:login.php");
 }
-header("location:login.php");
+
 }
 ?>
